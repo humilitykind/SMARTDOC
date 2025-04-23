@@ -148,14 +148,9 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
    - Ensure your `.env` file contains valid API keys.
 
 ### Debug Logs
-- Debug logs are included in the code to help identify issues during file processing.
+- Debug logs are commented in the code to help identify issues during file processing.
 - Check the terminal output for detailed error messages.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
