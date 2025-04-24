@@ -130,6 +130,21 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
 
 ---
 
+## 🌐 Try It Out Live
+
+Experience SmartDoc Analyzer live in action:
+
+[Try it out here](https://smartdocpy-analyzer.streamlit.app/)
+
+---
+
+## 🎥 Demo
+
+Watch the demo video to see SmartDoc Analyzer in action:
+
+[![Demo Video]](https://drive.google.com/file/d/1ulp06ROviSc3N7lVA1ueuZKuMJIEQqy_/view?usp=sharing)
+
+---
 
 ## 🐛 Debugging and Troubleshooting
 
@@ -148,9 +163,14 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
    - Ensure your `.env` file contains valid API keys.
 
 ### Debug Logs
-- Debug logs are commented in the code to help identify issues during file processing.
+- Debug logs are included in the code to help identify issues during file processing.
 - Check the terminal output for detailed error messages.
 
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
@@ -159,7 +179,10 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
 We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request.
 
 ---
+# Made with care from ,
 
-
+Arshit Mankodi ME22B026
+Praveen Shukla 
+Mounika BS21B021
 
 
