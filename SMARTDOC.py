@@ -32,8 +32,8 @@ warnings.filterwarnings("ignore", category=UserWarning)
 # ==================== SETUP ====================
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-VISION_AGENT_API_KEY = os.getenv("VISION_AGENT_API_KEY")
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+VISION_AGENT_API_KEY = st.secrets["VISION_AGENT_API_KEY"]
 
 st.set_page_config(page_title="📚 Smart Multi-Doc AI Chatbot", page_icon="🧠")
 
