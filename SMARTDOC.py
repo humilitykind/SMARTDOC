@@ -31,7 +31,8 @@ warnings.filterwarnings("ignore", category=UserWarning)
 
 # ==================== SETUP ====================
 load_dotenv()
-
+#use os.getenv for .env files 
+#use st.secrets for deploying on streamlit cloud
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 VISION_AGENT_API_KEY = st.secrets["VISION_AGENT_API_KEY"]
 
