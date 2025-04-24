@@ -9,7 +9,7 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
 
 Experience SmartDoc Analyzer live in action:
 
-[Try it out here](https://smartdocpy-analyzer.streamlit.app/)
+[Try it out here !!](https://smartdocpy-analyzer.streamlit.app/)
 
 ---
 
@@ -182,10 +182,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request.
 
 ---
-# Made with care from ,
+## ❤️ Made with Care By
 
-Arshit Mankodi ME22B026
-Praveen Shukla 
-Mounika BS21B021
+- **Arshit Mankodi** (ME22B026)  
+- **Praveen Shukla**  
+- **Mounika** (BS21B021)
 
 
