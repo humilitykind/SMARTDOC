@@ -4,6 +4,24 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
 
 ---
 
+
+## 🌐 Try It Out Live
+
+Experience SmartDoc Analyzer live in action:
+
+[Try it out here](https://smartdocpy-analyzer.streamlit.app/)
+
+---
+
+## 🎥 Demo
+
+Watch the demo video to see SmartDoc Analyzer in action:
+
+[[Demo Video]](https://drive.google.com/file/d/1ulp06ROviSc3N7lVA1ueuZKuMJIEQqy_/view?usp=sharing)
+
+---
+
+
 ## 🚀 Features
 
 - **Multi-File Support**: Analyze multiple file types, including:
@@ -128,21 +146,6 @@ SmartDoc Analyzer is a next-generation document intelligence tool that allows yo
 5. **Streamlit UI**:
    - Provides an interactive interface for uploading files, processing documents, and chatting.
 
----
-
-## 🌐 Try It Out Live
-
-Experience SmartDoc Analyzer live in action:
-
-[Try it out here](https://smartdocpy-analyzer.streamlit.app/)
-
----
-
-## 🎥 Demo
-
-Watch the demo video to see SmartDoc Analyzer in action:
-
-[![Demo Video]](https://drive.google.com/file/d/1ulp06ROviSc3N7lVA1ueuZKuMJIEQqy_/view?usp=sharing)
 
 ---
 
